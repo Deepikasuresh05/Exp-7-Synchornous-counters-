@@ -1,9 +1,10 @@
 # Exp-6-Synchornous-counters - up counter and down counter 
-### AIM: To implement 4 bit up and down counters and validate  functionality.
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
-### THEORY 
-
+### AIM: 
+To implement 4 bit up and down counters and validate  functionality.
+### HARDWARE REQUIRED:  
+PC, Cyclone II , USB flasher
+### SOFTWARE REQUIRED:   
+Quartus prime 
 ## UP COUNTER 
 The counter is a digital sequential circuit and here it is a 4 bit counter, which simply means it can count from 0 to 15 and vice versa based upon the direction of counting (up/down). 
 
@@ -46,16 +47,19 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+![image](https://github.com/Deepikasuresh05/Exp-7-Synchornous-counters-/assets/148514509/420c4990-c606-461c-9f76-c8b13c60b107)
+
 
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: S DEEPIKA
+RegisterNumber:  23002257
 */
+
+![image](https://github.com/Deepikasuresh05/Exp-7-Synchornous-counters-/assets/148514509/0140e5a8-3542-40a6-b803-b6e0cbbde533)
 
 
 
@@ -65,6 +69,7 @@ RegisterNumber:
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 
+![image](https://github.com/Deepikasuresh05/Exp-7-Synchornous-counters-/assets/148514509/0432f4aa-2ae7-48c8-b229-f1530793f13e)
 
 
 
@@ -74,15 +79,20 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+![image](https://github.com/Deepikasuresh05/Exp-7-Synchornous-counters-/assets/148514509/0c71330f-ad35-4666-a2d9-bd1d8c52d9b1)
 
+
+### DOWN COUNTER
+![image](https://github.com/Deepikasuresh05/Exp-7-Synchornous-counters-/assets/148514509/288ce0fd-3056-4e13-8ec8-c0356e1b24bb)
 
 
 
 ### TRUTH TABLE 
 
+![image](https://github.com/Deepikasuresh05/Exp-7-Synchornous-counters-/assets/148514509/f4300aa1-84c6-4324-92ac-597d6a2981ca)
 
 
-
-
+![image](https://github.com/Deepikasuresh05/Exp-7-Synchornous-counters-/assets/148514509/f806c140-164b-4b67-9999-7c604f4f9c46)
 
 ### RESULTS 
+Thus the Synchornous counter was obtained
